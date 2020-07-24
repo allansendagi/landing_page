@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/allansendagi/landing_page/static/css/main.6577e2a8.chunk.css",
+    "main.js": "/allansendagi/landing_page/static/js/main.c4d77e27.chunk.js",
+    "main.js.map": "/allansendagi/landing_page/static/js/main.c4d77e27.chunk.js.map",
+    "runtime-main.js": "/allansendagi/landing_page/static/js/runtime-main.ad20f9bd.js",
+    "runtime-main.js.map": "/allansendagi/landing_page/static/js/runtime-main.ad20f9bd.js.map",
+    "static/js/2.ad80b5d4.chunk.js": "/allansendagi/landing_page/static/js/2.ad80b5d4.chunk.js",
+    "static/js/2.ad80b5d4.chunk.js.map": "/allansendagi/landing_page/static/js/2.ad80b5d4.chunk.js.map",
+    "index.html": "/allansendagi/landing_page/index.html",
+    "precache-manifest.c3b67883443d2579df4881ac63d36740.js": "/allansendagi/landing_page/precache-manifest.c3b67883443d2579df4881ac63d36740.js",
+    "service-worker.js": "/allansendagi/landing_page/service-worker.js",
+    "static/css/main.6577e2a8.chunk.css.map": "/allansendagi/landing_page/static/css/main.6577e2a8.chunk.css.map",
+    "static/js/2.ad80b5d4.chunk.js.LICENSE.txt": "/allansendagi/landing_page/static/js/2.ad80b5d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad20f9bd.js",
+    "static/js/2.ad80b5d4.chunk.js",
+    "static/css/main.6577e2a8.chunk.css",
+    "static/js/main.c4d77e27.chunk.js"
+  ]
+}
